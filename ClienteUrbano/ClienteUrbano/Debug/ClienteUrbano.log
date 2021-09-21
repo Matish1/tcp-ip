@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Matias\Desktop\ClienteUrbano\ClienteUrbano\main.cpp(16,40): warning C4244:  'argumento': conversión de 'DWORD' a 'WORD'; posible pérdida de datos
+  ClienteUrbano.vcxproj -> C:\Users\Matias\Desktop\ClienteUrbano\Debug\ClienteUrbano.exe

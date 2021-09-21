@@ -1,0 +1,13 @@
+https://docs.microsoft.com/en-us/windows/win32/api/
+https://docs.microsoft.com/en-us/windows/win32/api/_winsock/
+
+https://docs.microsoft.com/en-us/windows/win32/api/winsock2/ns-winsock2-wsadata
+
+https://docs.microsoft.com/en-us/windows/win32/api/winsock2/nf-winsock2-socket
+
+https://www.bogotobogo.com/cplusplus/sockets_server_client.php
+
+https://www.geeksforgeeks.org/socket-programming-cc/
+
+https://docs.microsoft.com/en-us/windows/win32/winprog/windows-data-types
+https://stackoverflow.com/questions/15526913/how-to-get-a-list-of-all-ip-addresses-in-the-lan
